@@ -1,0 +1,15 @@
+[ {
+  "userId" : "pm-happy-1776466081493",
+  "email" : null,
+  "name" : null,
+  "encryptedPassword" : "enc-client-value-123",
+  "plan" : "FREE",
+  "createdAt" : "2026-04-17T22:48:40.280102400Z"
+}, {
+  "userId" : "82a5037a-47a5-41ec-8866-b53e59d049e5",
+  "email" : "pm-user-1776466958811@mail.com",
+  "name" : "Postman User",
+  "encryptedPassword" : "enc-client-value-123",
+  "plan" : "FREE",
+  "createdAt" : "2026-04-17T23:03:22.465230200Z"
+} ]
