@@ -11,10 +11,11 @@ import org.springframework.stereotype.Service;
 public class MockAIGenerationService implements AIGenerationService {
 
     private static final List<String> MOCK_TEXTS = List.of(
-            "Este es un texto generado por IA simulada para tu solicitud.",
-            "La plataforma procesó tu prompt y construyó una respuesta de ejemplo.",
-            "Resultado simulado: esta salida representa una generacion de texto controlada.",
-            "Respuesta mock completada con exito para fines de testing."
+            "Este trabajo esta de 5.0 profe",
+            "muchas lagrimas en el trabajo profe, se lo juro",
+            "5.0 profe 5.0",
+            "mas de 5.0 esta el trabajo, de mas tiempo",
+            "muyt poco tiempo mucha ansiedad"
     );
 
     @Override
